@@ -59,6 +59,7 @@ cover/
 env/
 venv/
 ENV/
+projects/
 
 # Jupyter Notebook
 .ipynb_checkpoints
